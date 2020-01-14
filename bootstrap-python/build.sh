@@ -1,8 +1,8 @@
 pushd ${SRC_DIR}
 
-wget https://bitbucket.org/squeaky/portable-pypy/downloads/pypy-2.5-linux_x86_64-portable.tar.bz2
-tar xvf pypy-2.5-linux_x86_64-portable.tar.bz2
-mv pypy-2.5-linux_x86_64-portable pypy-portable
+wget https://bitbucket.org/squeaky/portable-pypy/downloads/pypy-2.7-linux_x86_64-portable.tar.bz2
+tar xvf pypy-2.7-linux_x86_64-portable.tar.bz2
+mv pypy-2.7-linux_x86_64-portable pypy-portable
 
 popd 
 
